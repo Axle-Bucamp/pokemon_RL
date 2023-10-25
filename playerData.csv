@@ -1,0 +1,13 @@
+,ident,details,condition,active,moves,baseAbility,item,pokeball,ability,stats.atk,stats.def,stats.spa,stats.spd,stats.spe
+0,p2: Beedrill,"Beedrill, L81, M",157/238,True,"['poisonjab', 'swordsdance', 'xscissor', 'drillrun']",sniper,beedrillite,pokeball,sniper,192,111,120,176,168
+1,p2: Typhlosion,"Typhlosion, L86, F",274/274,False,"['extrasensory', 'eruption', 'hiddenpowergrass60', 'fireblast']",flashfire,choicescarf,pokeball,flashfire,149,183,236,195,221
+2,p2: Hoopa,"Hoopa, L85",275/275,False,"['psyshock', 'nastyplot', 'shadowball', 'focusblast']",magician,lifeorb,pokeball,magician,192,151,304,270,168
+3,p2: Empoleon,"Empoleon, L82, M",272/272,False,"['flashcannon', 'roar', 'grassknot', 'hydropump']",torrent,lifeorb,pokeball,torrent,146,191,229,213,146
+4,p2: Lickilicky,"Lickilicky, L88, M",337/337,False,"['bodyslam', 'swordsdance', 'powerwhip', 'knockoff']",oblivious,leftovers,pokeball,oblivious,200,217,191,217,138
+5,p2: Clefable,"Clefable, L80, F",283/283,False,"['moonblast', 'fireblast', 'thunderwave', 'softboiled']",magicguard,lifeorb,pokeball,magicguard,117,163,198,190,142
+0,p1: Mightyena,"Mightyena, L88, F",240/266,True,"['suckerpunch', 'irontail', 'playrough', 'crunch']",moxie,lifeorb,pokeball,moxie,209,173,156,156,173
+1,p1: Doublade,"Doublade, L82, F",231/231,False,"['ironhead', 'shadowclaw', 'sacredsword', 'swordsdance']",noguard,eviolite,pokeball,noguard,228,293,121,128,105
+2,p1: Samurott,"Samurott, L86, M",304/304,False,"['aquajet', 'liquidation', 'sacredsword', 'icebeam']",torrent,assaultvest,pokeball,torrent,221,195,235,170,170
+3,p1: Exploud,"Exploud, L86, F",319/319,False,"['icebeam', 'focusblast', 'boomburst', 'fireblast']",scrappy,choicespecs,pokeball,scrappy,161,158,206,175,166
+4,p1: Mandibuzz,"Mandibuzz, L84, F",322/322,False,"['toxic', 'bravebird', 'foulplay', 'roost']",overcoat,leftovers,pokeball,overcoat,157,225,141,208,183
+5,p1: Scyther,"Scyther, L87, M",263/263,False,"['brickbreak', 'bugbite', 'aerialace', 'roost']",technician,eviolite,pokeball,technician,241,189,145,189,232
