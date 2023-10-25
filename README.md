@@ -1,4 +1,4 @@
-# pokemon with renforcement learning battle bot
+# Pokemon with reinforcement learning battle bot
 
 to execute the project run the javascript with pokemon-showdonw package installed
 then run the python train file with (tensorflow, numpy, pandas, web-socket-client) installed
@@ -7,5 +7,6 @@ then run the python train file with (tensorflow, numpy, pandas, web-socket-clien
 - easy install
 - fix fainted bug
 - save and load model
-- multy model training (darwin tree or concour between model)
+- multi-model training (Darwin tree or challenge between model)
 - fix inversed player data
+- clean and optimize the code (filthy there)
